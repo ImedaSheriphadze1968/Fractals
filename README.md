@@ -1,7 +1,5 @@
 # Fractals
 
-Fractals Repository
-
 Welcome to my Fractals Repository, a collection of unique algorithms and visualizations that showcase the beauty of mathematical fractals.
 
 What You’ll Find:
